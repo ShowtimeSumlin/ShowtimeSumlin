@@ -6,12 +6,10 @@
 I am pursuing a cybersecurity degree at WGU while working with the DOD Mission Defense Team and mastering the latest technologies to protect and secure digital environments.
 
 ## Objective
-[Provide Objective]
 
 I'm a System Administrator and Network Technician in the U.S. Air Force, pursuing cybersecurity to enhance my expertise in SOC operations and contribute to cutting-edge threat detection and network security.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +21,6 @@ I'm a System Administrator and Network Technician in the U.S. Air Force, pursuin
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link]
 
 ### Network
 <div>
@@ -46,7 +43,6 @@ I'm a System Administrator and Network Technician in the U.S. Air Force, pursuin
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />

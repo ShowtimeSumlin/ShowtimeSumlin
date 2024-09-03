@@ -13,7 +13,7 @@ I'm a System Administrator and Network Technician in the U.S. Air Force, pursuin
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Creating a SOC Logical Diagram                | <a href="https://drive.google.com/file/d/1v6WB5gLevy86NMWH5-OPtZEtYlHm2H1a/view?usp=sharing">Detection Lab</a>|
+| Creating a SOC Logical Diagram                | <a href="https://drive.google.com/file/d/1v6WB5gLevy86NMWH5-OPtZEtYlHm2H1a/view?usp=sharing">SOC Diagram</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|

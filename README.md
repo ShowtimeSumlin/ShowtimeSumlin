@@ -54,3 +54,4 @@ I'm a System Administrator and Network Technician in the U.S. Air Force, pursuin
 - Detection Lab
 - SOC Automation Project
 - HoneyPot Lab
+- Creating a SOC Logical Diagram
